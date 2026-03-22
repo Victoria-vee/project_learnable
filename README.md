@@ -14,7 +14,7 @@ Version control is the process of tracking and managing changes made to software
 
 - git is a local repository that track changes locally WHILE github provides a platform for collaboration on repositories online.
 
-- git is a software WHILE git is a service.
+- git is a software WHILE github is a service.
 
 <hr>
 
